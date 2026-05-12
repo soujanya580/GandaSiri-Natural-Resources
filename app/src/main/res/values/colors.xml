@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sandalwood_brown">#8B4513</color>
+    <color name="sandalwood_dark">#5C2E00</color>
+    <color name="sandalwood_medium">#A0522D</color>
+    <color name="sandalwood_light">#D2691E</color>
+    <color name="sandalwood_pale">#DEB887</color>
+    <color name="sandalwood_cream">#F5DEB3</color>
+    <color name="sandalwood_ivory">#FFF8DC</color>
+    <color name="forest_green">#2D5A27</color>
+    <color name="golden_sap">#DAA520</color>
+    <color name="alert_red">#D32F2F</color>
+</resources>

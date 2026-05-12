@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gandha-Siri</string>
+    <string name="tagline">ಗಂಧ-ಶ್ರೀ · Sandalwood Guardian</string>
+    <string name="add_tree">Register Tree</string>
+    <string name="tree_register">Tree Register</string>
+    <string name="security_center">Security Center</string>
+    <string name="legal_guide">Legal Guide</string>
+    <string name="maturity_calculator">Maturity Calculator</string>
+    <string name="panic_button">PANIC BUTTON</string>
+    <string name="panic_description">Tap to alert emergency contacts</string>
+    <string name="no_trees_yet">No trees registered yet</string>
+    <string name="girth_unit">cm</string>
+    <string name="height_unit">m</string>
+    <string name="years_old">years old</string>
+    <string name="years_to_harvest">years to harvest</string>
+    <string name="heartwood_ready">Ready for Harvest!</string>
+    <string name="legal_step_apply">Apply to Forest Department</string>
+    <string name="alert_sent">Security alert sent!</string>
+    <string name="tree_registered">Tree registered successfully!</string>
+</resources>
